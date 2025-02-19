@@ -1,0 +1,6 @@
+@Booking_HostAddress = http://localhost:5246
+
+POST {{Booking_HostAddress}}/api/Booking?name=test&row=1&column=2
+Accept: application/json
+
+###
